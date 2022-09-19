@@ -1,0 +1,22 @@
+/*
+	  -Name: Srinish Pellakur
+      -UnityID: spellak
+      -Date: 9/19/22
+      -Assignment: Webpages GL
+      -Description: Guided lab assignment, about me webpage
+ */
+ 
+p {
+    font-family:Times ;
+    font-size: 16px;
+    color: #CC0000;
+}
+
+.table-border{
+    border: 1px solid #FFFFFF;
+}
+
+#photo-resize {
+    max-width: 250px
+    max-height: 300px;
+}
