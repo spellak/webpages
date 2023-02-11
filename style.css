@@ -1,0 +1,25 @@
+/*
+      -Name: Srinish Pellakur
+      -UnityID: spellak
+      -Date: 09/19/22
+      -Assignment: Independent Assignment 5
+      -Description: Created a website about myself
+ */
+ 
+#color_of_background {
+     background-color: #CBC3E3;
+}
+ /*changes background color*/
+ 
+.table-border {
+    border: 3px solid #FFFFFF;
+}
+ /*adds border to table*/
+
+#photo-settings {
+	border: 2px solid #00FF00;
+	border-style: outset;
+    width: 200px;
+    height: 250px;
+}
+ /*edits photo to appearance*/
